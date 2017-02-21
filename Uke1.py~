@@ -1,0 +1,11 @@
+from math import e
+
+z = 1.+1j
+
+print z
+
+print e**(z)
+
+print e**(-z)
+
+print e**(z)*e**(-z)
